@@ -47,5 +47,5 @@ If you'd like to contribute to this project, please follow the [contribution gui
 
 ## Contact
 
-For any inquiries or feedback, please contact [your-email@example.com](avatarvishal1551@gmail.com).
+For any inquiries or feedback, please contact [avatarvishal1551@gmail.com](avatarvishal1551@gmail.com).
 
